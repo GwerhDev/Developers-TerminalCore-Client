@@ -1,0 +1,19 @@
+.form-login {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  padding: .5rem;
+  padding-inline: 1rem;
+  border-radius: .5rem;
+}
+
+.btn-primary {
+  background-color: var(--button-primary-color);
+  color: white;
+  text-decoration: none;
+  &:hover {
+    background-color: var(--button-primary-color-hover);
+  }
+}
