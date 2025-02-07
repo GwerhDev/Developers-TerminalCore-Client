@@ -5,7 +5,7 @@
 
 <template>
   <form class="form-login">
-    <a class="btn btn-primary" href="https://terminalcore.vercel.app">
+    <a class="btn btn-primary" href="https://terminalcore.cl">
       Volver
     </a>
   </form>
